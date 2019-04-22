@@ -1,6 +1,5 @@
-.gitignore
-
-.git
+js
+doc
 ######################
 # Project Specific
 ######################
@@ -55,6 +54,7 @@ local.properties
 *.orig
 ######################
 # Visual Studio Code
+
 ######################
 .vscode/
 ######################
@@ -78,6 +78,7 @@ local.properties
 # Windows
 ######################
 # Windows image file caches
+img/img3.jpeg
 Thumbs.db
 # Folder config file
 Desktop.ini
